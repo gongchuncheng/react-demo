@@ -1,3 +1,6 @@
+/**
+ * 生命周期
+ */
 import React,{Component} from 'react';
 
 import '../sass/index.scss';
