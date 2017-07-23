@@ -17,7 +17,7 @@ class Detail extends Component{
 
         return (
         	<div>
-	        	<h1>Hello React1</h1>
+	        	<h1>Hello React1sdbchjdsjbcsd</h1>
 	        	<p style={{ textAlign: 'center', marginTop: '100px', fontSize: '36px' }}>{ info }</p>
         	</div>
         );
